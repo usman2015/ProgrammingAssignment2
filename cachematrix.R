@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+source("path/to/file/assessment3.R")
 makeCacheMatrix <- function(x = matrix()) {
 
 }
